@@ -1,0 +1,46 @@
+@import url(reset.css);
+
+header li{
+color: red;
+}
+.title{
+	color: burlywood;
+	text-align: center;
+}
+.why-title{
+	color: saddlebrown;
+}
+.why-content p{
+	color: green;
+}
+.why-content p span{
+	color: red;
+}
+.life-title,
+.life-text{
+	color: sandybrown;
+}
+.text{
+	color: red;
+}
+.study-title{
+	color: aqua;
+}
+.study-content p{
+	color: blueviolet;
+}
+.study-list-title{
+	color: tomato;
+}
+[class*="item"]{
+	color: yellow;
+}
+.study-item-top{
+	color: black;
+}
+.nav-menu-item{
+	color: green;
+}
+.footer-title{
+	color: darkcyan;
+}
